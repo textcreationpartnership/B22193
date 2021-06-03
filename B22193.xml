@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments protestation, or, The resolution of the Lords and Commons, to maintaine the iust priuiledge of Parliament and to spend their lives and fortunes against those who are the promoters of this war, or have any way endeavored to put the King and his Parliament asunder : whereto is annexed their determination concerning the defence of Hvll, which is in great danger of being taken by the malignant partie.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B22193</idno><idno type="EEBO-CITATION">12272709</idno>
+  <idno type="VID">197414</idno>
+  <idno type="EEBO-PROQUEST">2240974569</idno>
+  
+            <idno type="STC">Wing E2142</idno>
+            <idno type="OCLC">12272709</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B22193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 197414)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 246:E109, no 6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments protestation, or, The resolution of the Lords and Commons, to maintaine the iust priuiledge of Parliament and to spend their lives and fortunes against those who are the promoters of this war, or have any way endeavored to put the King and his Parliament asunder : whereto is annexed their determination concerning the defence of Hvll, which is in great danger of being taken by the malignant partie.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 4 [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Ioseph Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:197414:1"/>
+            <p>THE PARLIAMENTS PROTESTATION: OR The Resolution of the LORDS, and COMMONS, to maintaine the iust Priuiledge of <hi>Parliament;</hi> and to spend their Lives and Fortunes against those who are the Promoters of this <hi>War,</hi> or have any way endeavored to put the <hi>King</hi> and his <hi>Parliament</hi> asunder. WHERETO Is annexed their <hi>Determination</hi> concerning the defence of HVLL, which is in great danger of being taken by the malignant Partie.</p>
+            <p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="license">
+                           <p>Ordered, that this be printed and published.</p>
+                           <p>Iohn Browne, <hi>Cler. Parl. D. Com.</hi>
+                           </p>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </p>
+            <p>LONDON, Printed for <hi>Ioseph Horton.</hi> MDCXLII.</p>
+            <pb facs="tcp:197414:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="proclamation">
+            <pb n="1" facs="tcp:197414:2"/>
+            <head>THE Parliaments Protestation: OR, The <hi>Resolution</hi> of the <hi>Lords</hi> and <hi>Commons</hi> to main<g ref="char:EOLhyphen"/>taine the just <hi>Priviledge</hi> of <hi>Parliament.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Greatest misery that can fall upon a Kingdome is Civill <hi>War,</hi> which being well knowne to the Malignants of this Kingdome, who found that all their Plots and Strata<g ref="char:EOLhyphen"/>gems were made frustrate by the providentiall foresight of the great Councell of the <hi>Kingdom,</hi> the high <hi>Court</hi> of PARLIAMENT; they then endeavoured to foment Iealousies and Feares betwixt the King and his <hi>Parliament;</hi> they caused Tumults dayly to bee made, which being done by their wicked Instruments, they insinuated into favour with his <hi>Majestie,</hi> and perswaded the King that the <hi>Parliament</hi> countenanced such Tu<g ref="char:EOLhyphen"/>mults.</p>
+            <pb n="2" facs="tcp:197414:3"/>
+            <p>Then they perswaded his <hi>Majestie</hi> that his Royall Person could not be in safety at his Royall Pal<g ref="char:EOLhyphen"/>lace at <hi>Westminster;</hi> but that it were more safe to retire to some place of Strengh: and having pre<g ref="char:EOLhyphen"/>vailed soe farre with his <hi>Majestie</hi> as that he had for<g ref="char:EOLhyphen"/>saken <hi>White-hall</hi> and left the City.</p>
+            <p>Then by their pernitious perswasions they got his <hi>Majestie</hi> to <hi>Yorke:</hi> being there, they sought by all means possible to possesse themselves of the <hi>Maga<g ref="char:EOLhyphen"/>zine,</hi> knowing that if they could be but so fortunate as to obtaine so great a Strength, that then the law would be in their owne hands.</p>
+            <p>But the wisdome of the <hi>Parliament</hi> (by the pro<g ref="char:EOLhyphen"/>vidence of GOD) tooke order timely to prevent so great a mischeife: To which end they sent downe Sir <hi>Io: Hotham</hi> a Member of the House of <hi>Commons</hi> and a Gentleman of knowne Wisdome, Courage and Discretion, in whom they knew they might conside, giving him full Power by the Authority of <hi>Parliament</hi> to put a <hi>Garrizon</hi> into the said Towne, and to keepe it for the defence of the <hi>King</hi> and <hi>Par<g ref="char:EOLhyphen"/>liament,</hi> against all those of that Partie that should any way endeavour to possesse themselves of the same.</p>
+            <p>Neverthelesse, they finding that their former Designe would not take, and that the hopes of the <hi>Earle</hi> of <hi>New-castle</hi> were made frustrate; Sir <hi>Iohn Hotham</hi> (having Possession of the Towne before the arivall of the said <hi>Earle)</hi> they then perswaded his <hi>Majestie</hi> to goe to <hi>Hull</hi> in his owne Person, ho<g ref="char:EOLhyphen"/>ping
+<pb n="3" facs="tcp:197414:3"/> by that meanes to arive at the Haven of their desires.</p>
+            <p>His <hi>Majestie</hi> comming before <hi>Hull,</hi> was denyed accesse into the Towne, being accompanyed with such numbers of evill affected persons, that it stood not with the Honour of Sir <hi>Iohn Hotham</hi> so to ha<g ref="char:EOLhyphen"/>zard the Towne and <hi>Magazine,</hi> wherein consisted the peace of King and Kingdome; which hee sea<g ref="char:EOLhyphen"/>sonably considering, chose rather to deny his <hi>Ma<g ref="char:EOLhyphen"/>jestie</hi> an entrance, then by granting to undoe both his Maiestie and his Posterity.</p>
+            <p>They seeing that their hopes were vaine, and that they could not obtaine their wished ends, strove to incense his <hi>Majestie</hi> against Sir <hi>Iohn Hotham,</hi> cau<g ref="char:EOLhyphen"/>sing him to be proclaimed Traitor round about the walls of the Towne.</p>
+            <p>Since which time by their pernicious Councells, they have caused his <hi>Majestie</hi> to ingage himselfe in a Warre against <hi>Hull,</hi> for which purpose they have levied many horse and Foote, and armed them in a War-like manner.</p>
+            <p>All which the <hi>Parliament</hi> taking into considera<g ref="char:EOLhyphen"/>tion, and knowing what the said effect will be, if they use not a speedy prevention; to which end they have beene forced to use all possible speed in the raising of Forces to strengthen the Towne of <hi>Hull,</hi> against all those that seeke forcibly to ceize it and to preserve the peace of the <hi>King</hi> and <hi>Kingdome</hi> which they onely endeavour to destroy.</p>
+            <p>And that the world may be truly satisfied in the
+<pb n="4" facs="tcp:197414:4"/> iustice of their proceedings they have thought it ne<g ref="char:EOLhyphen"/>cessary to declare that they will be ready with their lives and fortune to obey His Maiesty and to defend him as their most deare and dread Soveraigne, accor<g ref="char:EOLhyphen"/>ding to their Allegiance and Resolution, to defend the iust Priviledges of <hi>Parliament</hi> according to their free and iust Prottestation.</p>
+            <p>And that as God, and the Fundementall Lawes of this Kingdome have ioyned His Maiesty and Parlia<g ref="char:EOLhyphen"/>ment together so they cannot agree to disioynted obedience but declare themselves enemies to all such as goe about to put asunder, and to make a separation twixt his <hi>Majestie</hi> and the Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="order_to_print">
+            <pb facs="tcp:197414:4"/>
+            <opener>
+               <dateline>
+                  <date>IVLY, 29.</date>
+               </dateline>
+            </opener>
+            <p>Ordered by the LORDS and Com<g ref="char:EOLhyphen"/>mons assembled in Parliament, that this be Printed and published.</p>
+            <closer>
+               <signed>Iohn Browne, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
